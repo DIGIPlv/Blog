@@ -21,6 +21,9 @@ function drop()
     case 4:
       window.open(blogPages[parseInt(drop.value)],'_self');
       break;
+    case 5:
+      window.open(blogPages[parseInt(drop.value)],'_self');
+    break;
   }
 }
 
@@ -38,5 +41,6 @@ let blogPages =
   "https://digip.lv/blogs/prasmes",
   "https://digip.lv/blogs/intervijas",
   "https://digip.lv/blogs/kopienas",
-  "https://digip.lv/blogs/tehnologijas"
+  "https://digip.lv/blogs/tehnologijas",
+  "https://digip.lv/blogs/podkasti"
 ]
