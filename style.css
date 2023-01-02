@@ -14,7 +14,7 @@ margin-bottom: 20px;
 transition: all 0.2s ease-out;
 cursor: pointer;
 margin: 10px 10px;
-border: 2px solid #590955;
+border: 2px solid #6E198E;
 }
 
 .blog__selection:hover {
@@ -22,14 +22,14 @@ border: 2px solid #590955;
 }
 
 .blog__active-selection {
-  background: #590955;
+  background: #6E198E;
   transform: scale(1.1);
-  border: 2px solid #590955;
+  border: 2px solid #6E198E;
   color: #fff;
 }
 
 #blog-drop {
-  background: #590955;
+  background: #6E198E;
   color: #ffffff;
   display: none;
 }
